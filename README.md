@@ -564,7 +564,7 @@ Following the pipeline execution:
 
 ### Screenshot 16 – Final Successful Pipeline
 
-![Successful Pipeline](screenshots/16-final-successful-pipeline.png)
+![Successful Pipeline](screenshots/16-final-succesful-pipeline.png)
 
 ---
 
